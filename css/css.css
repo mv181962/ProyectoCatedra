@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid rgb(214, 26, 26);
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+ }
+ .soporte{
+    text-align: center;
+ }
+
+ #loco{
+    margin-top: -10%;
+ }
+ #consult{
+    margin-top: -19%;
+ }
+ .form{
+    width: 100%;
+    
+    padding: 15%;
+    margin:auto;
+    
+
+ }
+
